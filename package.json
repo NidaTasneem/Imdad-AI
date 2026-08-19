@@ -1,0 +1,25 @@
+{
+  "name": "ai-ticket-management-agent",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --configLoader native",
+    "server": "node server/index.js",
+    "build": "tsc && vite build --configLoader native",
+    "preview": "vite preview --host 127.0.0.1 --configLoader native"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "@supabase/supabase-js": "^2.48.1",
+    "vite": "^6.0.5",
+    "typescript": "^5.7.2",
+    "express": "^4.21.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "lucide-react": "^0.468.0"
+  },
+  "devDependencies": {}
+}

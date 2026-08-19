@@ -1,0 +1,27 @@
+<svg width="300" height="220" viewBox="0 0 300 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="book" x1="60" y1="44" x2="236" y2="176" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#73D8F5"/>
+      <stop offset="0.52" stop-color="#468EF9"/>
+      <stop offset="1" stop-color="#0C66EE"/>
+    </linearGradient>
+    <linearGradient id="page" x1="92" y1="54" x2="198" y2="158" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EAF3FF"/>
+    </linearGradient>
+    <linearGradient id="spark" x1="204" y1="58" x2="252" y2="114" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DFFB7"/>
+      <stop offset="1" stop-color="#18C7EA"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="150" cy="188" rx="94" ry="18" fill="#DDEBFF"/>
+  <path d="M66 54C66 43 75 34 86 34H214C225 34 234 43 234 54V162C234 173 225 182 214 182H86C75 182 66 173 66 162V54Z" fill="url(#book)"/>
+  <path d="M92 58H204C211 58 216 63 216 70V154C216 161 211 166 204 166H92V58Z" fill="url(#page)"/>
+  <path d="M84 58H100V166H84C77 166 72 161 72 154V70C72 63 77 58 84 58Z" fill="#0A59D0"/>
+  <rect x="116" y="82" width="68" height="10" rx="5" fill="#0C66EE"/>
+  <rect x="116" y="106" width="76" height="8" rx="4" fill="#8DBDFF"/>
+  <rect x="116" y="126" width="58" height="8" rx="4" fill="#8DBDFF"/>
+  <circle cx="226" cy="72" r="24" fill="url(#spark)"/>
+  <path d="M226 60V84M214 72H238" stroke="white" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="62" cy="46" r="12" fill="#7DE3C8"/>
+</svg>

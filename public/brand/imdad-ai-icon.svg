@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Imdad AI icon</title>
+  <defs>
+    <linearGradient id="g" x1="6" y1="6" x2="58" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5CB6FF"/>
+      <stop offset="1" stop-color="#0C66EE"/>
+    </linearGradient>
+  </defs>
+  <rect x="5" y="5" width="54" height="54" rx="18" fill="url(#g)"/>
+  <path d="M20 42V22" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <path d="M31 42V27C31 23.6863 33.6863 21 37 21C40.3137 21 43 23.6863 43 27V42" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <path d="M50 10L52 15.6L58 18L52 20.4L50 26L48 20.4L42 18L48 15.6L50 10Z" fill="#B769FF"/>
+</svg>

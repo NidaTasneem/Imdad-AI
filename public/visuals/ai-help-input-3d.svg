@@ -1,0 +1,28 @@
+<svg width="260" height="200" viewBox="0 0 260 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panel" x1="48" y1="36" x2="208" y2="158" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#72D9F4"/>
+      <stop offset="0.52" stop-color="#438DF7"/>
+      <stop offset="1" stop-color="#0C66EE"/>
+    </linearGradient>
+    <linearGradient id="card" x1="78" y1="54" x2="174" y2="138" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EAF3FF"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="154" y1="90" x2="220" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6DFFB5"/>
+      <stop offset="1" stop-color="#13C6E8"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="132" cy="172" rx="82" ry="16" fill="#DDEBFF"/>
+  <rect x="46" y="40" width="154" height="116" rx="30" fill="url(#panel)"/>
+  <rect x="70" y="62" width="104" height="74" rx="18" fill="url(#card)"/>
+  <rect x="88" y="82" width="58" height="10" rx="5" fill="#0C66EE" fill-opacity="0.9"/>
+  <rect x="88" y="104" width="70" height="8" rx="4" fill="#8DBDFF"/>
+  <rect x="88" y="122" width="46" height="8" rx="4" fill="#8DBDFF"/>
+  <path d="M154 118L212 142L172 152L164 136L154 118Z" fill="url(#accent)"/>
+  <path d="M172 152L184 176" stroke="#0C66EE" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="200" cy="54" r="18" fill="#EAF3FF"/>
+  <path d="M198 44V64M188 54H208" stroke="#0C66EE" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="58" cy="52" r="10" fill="#7DE3C8"/>
+</svg>
